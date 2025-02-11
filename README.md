@@ -1,7 +1,7 @@
 <div align="center">
   
   <h2 align="center">  <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi, I'm Jairo</h2>
-  <img src="https://i.pinimg.com/originals/ed/29/74/ed29741e2d0fb0ae214a333c69fd9b2e.gif" auto alt="Foto de jairo el malito">
+  <img src="https://i.pinimg.com/originals/ed/29/74/ed29741e2d0fb0ae214a333c69fd9b2e.gif" auto alt="Foto de jairo el malito" height="450px">
   
   <p align="center">
     <a href="#">
